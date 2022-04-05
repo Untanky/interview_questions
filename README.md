@@ -17,9 +17,13 @@
 - What are the three main components of a web page?
 - What could be a reason for your page to load slowly? How would you fix it?
 - Do you know what ARIA (accessibility) and screen reader are?
+
+#### CSS Questions
+
+- What does CSS stand for? How does cascading work?
 - How would you deal with large amount of CSS code?
 
-#### Frontend
+#### Frontend Frameworks
 
 - What frontend frameworks do you know?
 - What is state management? Why do you need it?
