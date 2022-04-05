@@ -6,6 +6,8 @@
 - What is the difference between `var`, `let` and `const`
 - What happens if you add a string and an integer in JavaScript?
 - What are the differences between Java and JavaScript?
+- What is a `Promise`?
+- What is the purpose of the keyword `async` and `await`
 
 ## Web Apps
 
@@ -33,6 +35,7 @@
 
 ### Backend
 
+- What is an API? What is the purpose of it?
 - What is REST?
 - What is GraphQL?
 - What are the differences between REST and GraphQL?
@@ -43,6 +46,9 @@
   - What is the factory pattern?
 - Should 
 - What is the MVC?
+- What are unit tests?
+  - When do you write unit tests?
+  - Are cypress tests unit tests? 
 
 ## Theoretical Questions
 
