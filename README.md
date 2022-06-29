@@ -8,6 +8,7 @@
 - What are the differences between Java and JavaScript?
 - What is a `Promise`?
 - What is the purpose of the keyword `async` and `await`
+- What is the difference between `for(let x in obj)` and `for(let x of arr)`? 
 
 ## Web Apps
 
