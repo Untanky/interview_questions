@@ -69,3 +69,12 @@
 - What is version control? What are the advantages of a version control system?
 - Do you know what the cloud is?
 - What does the term agile mean for you?
+
+## Bundler
+
+## Minification
+
+## Tree-shaking
+
+## Code splitting
+
