@@ -13,13 +13,14 @@
 ## Web Apps
 
 - What is layered architecture? What layers are there?
-- What is micro-service archichtecture? What are the advantages in regard to monolithic architecture?
+- What is microservice archichtecture? What are the advantages in regard to monolithic architecture?
 
 ### Frontend
 
 - What are the three main components of a web page?
 - What could be a reason for your page to load slowly? How would you fix it?
 - Do you know what ARIA (accessibility) and screen reader are?
+- What are the differences between `Observable` (rxjs) and `Promise`?
 
 #### CSS Questions
 
@@ -40,13 +41,23 @@
 
 #### Tree-shaking
 
+- What is understood under the term tree-shaking?
+- Why would you want to tree-shake?
+
 #### Code splitting
+
+- How does code splitting benefit a modern web application?
+
+#### Hydration
+
+- What is hydration in the context of server-side rendering/static side generation?
 
 ### Backend
 
 - What is an API? What is the purpose of it?
 - What is REST?
 - What is GraphQL?
+- What is RPC (tRPC, gRPC)?
 - What are the differences between REST and GraphQL?
 
 ## Practical Questions
@@ -65,6 +76,7 @@
   - What is OOP?
   - What is functional programming?
 - Do you know the term complexity in regard to computer science? What does it mean?
+- 
 
 ## Behaviour
 
