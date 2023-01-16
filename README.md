@@ -64,7 +64,6 @@
 
 - What language patterns do you know?
   - What is the factory pattern?
-- Should 
 - What is the MVC?
 - What are unit tests?
   - When do you write unit tests?
